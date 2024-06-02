@@ -1,0 +1,5 @@
+These are the requirements to run your code
+streamlit
+speechrecognition
+moviepy
+smtplib
