@@ -37,8 +37,8 @@ def mp4_to_wav(ip,op):
     return output_audio_path
 
 def send_prescription_to_email(prescription, receiver_email):
-    sender_email = "sandhyaratti03@gmail.com"  
-    sender_password = "snnz ugym pmcb cvsj" 
+    sender_email = "your email"  
+    sender_password = "email two step verification password" 
 
     msg = EmailMessage()
     msg["Subject"] = "Your Prescription"
